@@ -17,6 +17,12 @@ Blake_JH
  - Email
  blakejhbuiness@gmail.com
 
+iLofiz
+ - Discord
+ sabrinalofizter
+ - Email
+ilofiz@proton.me
+
 Discord Server
 
  - https://discord.gg/svMC6yecgC
